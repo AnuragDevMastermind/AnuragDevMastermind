@@ -17,9 +17,15 @@ Have worked on developing application including technologies like Webrtc, WebSoc
 
 __Currently looking for remote work opportunities__
 
-<br><br>
+<br>
 
+## 👀  Github stats
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragDevMastermind&show=prs_merged&hide=issues,contribs&show_icons=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragDevMastermind&layout=compact)
+
+<br>
+
+## 💻 Coding skill
+[![LeetCode Profile](https://leetcard.jacoblin.cool/anurag983sagar?theme=dark&font=Hind)](https://leetcode.com/anurag983sagar/)
