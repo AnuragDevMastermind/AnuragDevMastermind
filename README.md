@@ -3,13 +3,23 @@
 <p align='center'>
   <a href="https://twitter.com/DevMastermind1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anurag-sagar-85a164212/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="anurag983sagarofficial@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <a href="mailto:anurag983sagarofficial@gmail.com?subject=Olá%20Anurag"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<div align="center">
+
+<hr>
+
+
+## 🚀 About Me
+
+I am having 2 year 4 month total career experience in software engineering with around 1 year 5 month as a full time full stack developer role and rest as Android developer intern. I have worked mostly on Android Development, Web Development and Server Side Development.
+
+Have worked on developing application including technologies like Webrtc, WebSocket, Java Native Interface (JNI), Volley Library, FCM, Pagination, camera 2 api, kotlin, Kotlin Coroutines, Jetpack Compose, Algolia, PostgreSQL, Javalin, KTORM , HTML · CSS, JavaScript, React
+
+__Currently looking for remote work opportunities__
+
+<br><br>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragDevMastermind&show=prs_merged&hide=issues,contribs&show_icons=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragDevMastermind&layout=compact)
-
-</div>
-
