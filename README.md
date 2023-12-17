@@ -23,7 +23,7 @@ __Currently looking for remote work opportunities__
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragDevMastermind&show=prs_merged&hide=issues,contribs&show_icons=true&rank_icon=github&exclude_repo=AnuragDevMastermind,Chat-application)](https://github.com/AnuragDevMastermind/AnuragDevMastermind/blob/main/PR.md)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragDevMastermind&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragDevMastermind&layout=compact)](https://github.com/AnuragDevMastermind/AnuragDevMastermind/blob/main/PR.md)
 
 <br>
 
