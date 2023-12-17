@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🔥 My Merged PR
+## 🔥 My Pull Requests
 
 <br>
 
@@ -13,7 +13,8 @@
 </p>
 
 
-| PR                                                                   | Title                                                         | Issue Type | STATUS                         |
-|----------------------------------------------------------------------|---------------------------------------------------------------|------------|--------------------------------|
-| [1535](https://github.com/Automattic/pocket-casts-android/pull/1535) | Multiselect: Does not work in some cases  |    BUG     | ![Merged](./images/merged.png) |
-| [1598](https://github.com/Automattic/pocket-casts-android/pull/1598) | Full screen player - Save selected tab after screen rotation  |    BUG     | ![Merged](./images/merged.png) |
+| PR                                                                   | Title                                                         | Issue Type      | STATUS                         |
+|----------------------------------------------------------------------|---------------------------------------------------------------|-----------------|--------------------------------|
+| [1535](https://github.com/Automattic/pocket-casts-android/pull/1535) | Multiselect: Does not work in some cases  | BUG             | ![Merged](./images/merged.png) |
+| [1598](https://github.com/Automattic/pocket-casts-android/pull/1598) | Full screen player - Save selected tab after screen rotation  | BUG             | ![Merged](./images/merged.png) |
+| [1594](https://github.com/Automattic/pocket-casts-android/pull/1594) | Feature added: Keep selected podcasts when toggling new episode  | FEATURE REQUEST | ![Open](./images/open.png)     |
