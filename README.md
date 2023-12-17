@@ -22,7 +22,7 @@ __Currently looking for remote work opportunities__
 ## 👀  Github stats
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragDevMastermind&show=prs_merged&hide=issues,contribs&show_icons=true&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragDevMastermind&show=prs_merged&hide=issues,contribs&show_icons=true&rank_icon=github&exclude_repo=AnuragDevMastermind,Chat-application)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragDevMastermind&layout=compact)
 
 <br>
