@@ -8,4 +8,4 @@
 
 | PR                                                                   | Title                                                         | Issue Type | STATUS |
 |----------------------------------------------------------------------|---------------------------------------------------------------|------------|------------|
-| [1598](https://github.com/Automattic/pocket-casts-android/pull/1598) | Full screen player - Save selected tab after screen rotation  |    BUG     | ![merged 1.png](..%2F..%2FDownloads%2Fmerged%201.png) |
+| [1598](https://github.com/Automattic/pocket-casts-android/pull/1598) | Full screen player - Save selected tab after screen rotation  |    BUG     | ![merged.png](./images/merged.png) |
