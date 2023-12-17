@@ -4,7 +4,6 @@
 
 <br>
 
-</div>
 
 
 <p>
@@ -17,3 +16,6 @@
 |----------------------------------------------------------------------|---------------------------------------------------------------|-----------------|
 | [1535](https://github.com/Automattic/pocket-casts-android/pull/1535) | Multiselect: Does not work in some cases  | BUG             |
 | [1598](https://github.com/Automattic/pocket-casts-android/pull/1598) | Full screen player - Save selected tab after screen rotation  | BUG             | 
+
+
+</div>
