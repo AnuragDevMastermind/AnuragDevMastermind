@@ -8,8 +8,8 @@
 </p>
 
 
-| PR                                                                   | Title                                                         | Issue Type      |
-|----------------------------------------------------------------------|---------------------------------------------------------------|-----------------|
-| [1535](https://github.com/Automattic/pocket-casts-android/pull/1535) | Multiselect: Does not work in some cases  | BUG             |
-| [1598](https://github.com/Automattic/pocket-casts-android/pull/1598) | Full screen player - Save selected tab after screen rotation  | BUG             | 
+| PR                                                                   | Title                                                         | Issue Type      |  Tech |
+|----------------------------------------------------------------------|---------------------------------------------------------------|-----------------|--------|
+| [1535](https://github.com/Automattic/pocket-casts-android/pull/1535) | Multiselect: Does not work in some cases  | BUG             | Android |
+| [1598](https://github.com/Automattic/pocket-casts-android/pull/1598) | Full screen player - Save selected tab after screen rotation  | BUG   | Android          | 
 
