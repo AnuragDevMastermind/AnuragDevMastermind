@@ -27,5 +27,9 @@ __Currently looking for remote work opportunities__
 
 <br>
 
+## 🔥 My Merged PR's
+
+- **Pocketcasts**: [link](https://github.com/Automattic/pocket-casts-android/pulls?q=is%3Apr+is%3Amerged+author%3AAnuragDevMastermind)
+
 ## 💻 Coding skill
 [![LeetCode Profile](https://leetcard.jacoblin.cool/anurag983sagar?theme=dark&font=Hind)](https://leetcode.com/anurag983sagar/)
