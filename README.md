@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I am having 2 year 4 month total career experience in software engineering with around 1 year 5 month as a full time full stack developer role and rest as Android developer intern. I have worked mostly on Android Development, Web Development and Server Side Development.
+I am having 2 year 2 month total career experience in software engineering with around 1 year 5 month as a full time full stack developer role and rest as Android developer intern. I have worked mostly on Android Development, Web Development and Server Side Development.
 
 Have worked on developing application including technologies like Webrtc, WebSocket, Java Native Interface (JNI), Volley Library, FCM, Pagination, camera 2 api, kotlin, Kotlin Coroutines, Jetpack Compose, Algolia, PostgreSQL, Javalin, KTORM , HTML · CSS, JavaScript, React
 
