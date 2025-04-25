@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Sagar</h1>
-<h3 align="center">Full Stack Developer with Android Expertise | Kotlin | Jetpack Compose | React | Typescript | Open-Source Enthusiast</h3>
+<h3 align="center">Fullstack Mern Developer | Open-Source Enthusiast</h3>
 <p align='center'>
   <a href="https://twitter.com/DevMastermind1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anurag-sagar-85a164212/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -11,9 +11,11 @@
 
 ## 🚀 About Me
 
-I am having 2 year 2 month total career experience in software engineering with around 1 year 5 month as a full time full stack developer role and rest as Android developer intern. I have worked mostly on Android Development, Web Development and Server Side Development.
+I am having 3 year 3 months total career experience in software engineering with around 2 year 3 months as a full time fullstack MERN developer role and rest as Android developer intern.
 
-Have worked on developing application including technologies like Webrtc, WebSocket, Java Native Interface (JNI), Volley Library, FCM, Pagination, camera 2 api, kotlin, Kotlin Coroutines, Jetpack Compose, Algolia, PostgreSQL, Javalin, KTORM , HTML · CSS, JavaScript, React
+Skills gained throughout my carrier
+- __Web:__ TypeScript, Javascript, React, HTML, CSS, Tailwind, Shadcn, Redux, Express, Node.js, MongoDB, PostgreSQL, Docker, kubernetes, Redis, Firebase, JWT, GraphQL, WebRTC, Algolia, Elasticsearch, AWS, Vercel, CI/CD pipeline
+- __Android:__ Jetpack Compose, kotlin, Kotlin Coroutines, Pagination, camera 2 api, Webrtc, dagger hilt (dependency injection), Java Native Interface (JNI), Volley Library, FCM, Xml, Java
 
 __Currently looking for remote work opportunities__
 
