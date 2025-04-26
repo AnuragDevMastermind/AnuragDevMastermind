@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I am having 3 year 3 months total career experience in software engineering with around 2 year 3 months as a full time fullstack MERN developer role and rest as Android developer intern.
+I am a full-stack MERN developer with 2 years and 2 months of professional experience, excluding an additional 11 months of internship.
 
 Skills gained throughout my carrier
 - __Web:__ TypeScript, Javascript, React, HTML, CSS, Tailwind, Shadcn, Redux, Express, Node.js, MongoDB, PostgreSQL, Docker, kubernetes, Redis, Firebase, JWT, GraphQL, WebRTC, Algolia, Elasticsearch, AWS, Vercel, CI/CD pipeline
